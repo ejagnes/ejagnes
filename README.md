@@ -12,7 +12,7 @@ From Basile Confavreux: https://github.com/basile6/MetaLearnBiologicallyPlausibl
 
 ### ---
 
-For more info, please check my Google scholar profile (https://scholar.google.com/citations?user=-jI6Om0AAAAJ&hl=en) and my departmental website (https://www.biozentrum.unibas.ch/agnes).
+For more info, please check out my Google scholar profile (https://scholar.google.com/citations?user=-jI6Om0AAAAJ&hl=en) and my departmental website (https://www.biozentrum.unibas.ch/agnes).
 
 ### ---
 

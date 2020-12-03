@@ -2,9 +2,9 @@
 
 I'm a theoretical neuroscientist interested in how neuronal networks process information and learn in different temporal and spatial scales.
 
-## Codes
+## Code
 
-Here you will find codes I used in my latest papers papers:
+Here you will find the code I used in my latest papers papers:
 
 https://github.com/ejagnes/flexible_switch_2ISP for Complementary inhibitory weight profiles emerge from plasticity and allow flexible switching of receptive fields (2020). Everton J Agnes, Andrea I Luppi, and Tim P Vogels, Journal of Neuroscience JN-RM-0276-20; https://doi.org/10.1523/JNEUROSCI.0276-20.2020
 

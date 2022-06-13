@@ -4,7 +4,7 @@ I'm a theoretical neuroscientist interested in how neuronal networks process inf
 
 ## Code
 
-Here you will find the code I used in my latest papers papers:
+Here you will find the code I used in my latest papers:
 
 https://github.com/ejagnes/flexible_switch_2ISP for "Complementary inhibitory weight profiles emerge from plasticity and allow flexible switching of receptive fields" (2020) Everton J Agnes, Andrea I Luppi, and Tim P Vogels, Journal of Neuroscience 40:9634-9649; https://doi.org/10.1523/JNEUROSCI.0276-20.2020
 

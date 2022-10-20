@@ -6,9 +6,11 @@ I'm a theoretical neuroscientist interested in how neuronal networks process inf
 
 Here you will find the code I used in my latest papers:
 
-https://github.com/ejagnes/flexible_switch_2ISP for "Complementary inhibitory weight profiles emerge from plasticity and allow flexible switching of receptive fields" (2020) Everton J Agnes, Andrea I Luppi, and Tim P Vogels, Journal of Neuroscience 40:9634-9649; https://doi.org/10.1523/JNEUROSCI.0276-20.2020
+- https://github.com/ejagnes/transient_amplification_abst_bio for "Regimes and mechanisms of transient amplification in abstract and biological neural networks" (2022) Georgia Christodoulou, Tim P Vogels, and Everton J Agnes, **PLoS Computational Biology** 18:e1010365; https://doi.org/10.1371/journal.pcbi.101036
 
-From Basile Confavreux: https://github.com/basile6/MetaLearnBiologicallyPlausibleRules for "A meta-learning approach to (re)discover plasticity rules that carve a desired function into a neural network" (2020) Basile Confavreux, Friedemann Zenke, Everton J Agnes, Timothy Lillicrap, and Tim P Vogels, Advances in Neural Information Processing Systems 33:16398-16408; https://proceedings.neurips.cc/paper/2020/hash/bdbd5ebfde4934142c8a88e7a3796cd5-Abstract.html
+- https://github.com/ejagnes/flexible_switch_2ISP for "Complementary inhibitory weight profiles emerge from plasticity and allow flexible switching of receptive fields" (2020) Everton J Agnes, Andrea I Luppi, and Tim P Vogels, **Journal of Neuroscience** 40:9634-9649; https://doi.org/10.1523/JNEUROSCI.0276-20.2020
+
+- From Basile Confavreux: https://github.com/basile6/MetaLearnBiologicallyPlausibleRules for "A meta-learning approach to (re)discover plasticity rules that carve a desired function into a neural network" (2020) Basile Confavreux, Friedemann Zenke, Everton J Agnes, Timothy Lillicrap, and Tim P Vogels, **Advances in Neural Information Processing Systems** 33:16398-16408; https://proceedings.neurips.cc/paper/2020/hash/bdbd5ebfde4934142c8a88e7a3796cd5-Abstract.html
 
 ## More info
 

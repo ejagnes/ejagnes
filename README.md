@@ -4,7 +4,7 @@ I'm a theoretical neuroscientist interested in how neuronal networks process inf
 
 ## Code
 
-Here you will find the code I used in my latest papers:
+Here you will find the code used in my latest papers:
 
 - https://github.com/ejagnes/transient_amplification_abst_bio for "Regimes and mechanisms of transient amplification in abstract and biological neural networks" (2022) Georgia Christodoulou, Tim P Vogels, and Everton J Agnes, **PLoS Computational Biology** 18:e1010365; https://doi.org/10.1371/journal.pcbi.101036
 

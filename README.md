@@ -6,6 +6,8 @@ I'm a theoretical neuroscientist interested in how neuronal networks process inf
 
 Here you will find the code used in my latest papers:
 
+- https://github.com/ejagnes/codependent_plasticity for "Codependent excitatory and inhibitory plasticity accounts for quick, stable and long-lasting memories in biological networks" (2022) Everton J Agnes and Tim P Vogels, **bioRxiv** 10.1101/2021.04.01.437962; https://doi.org/10.1101/2021.04.01.437962
+
 - https://github.com/ejagnes/transient_amplification_abst_bio for "Regimes and mechanisms of transient amplification in abstract and biological neural networks" (2022) Georgia Christodoulou, Tim P Vogels, and Everton J Agnes, **PLoS Computational Biology** 18:e1010365; https://doi.org/10.1371/journal.pcbi.101036
 
 - https://github.com/ejagnes/flexible_switch_2ISP for "Complementary inhibitory weight profiles emerge from plasticity and allow flexible switching of receptive fields" (2020) Everton J Agnes, Andrea I Luppi, and Tim P Vogels, **Journal of Neuroscience** 40:9634-9649; https://doi.org/10.1523/JNEUROSCI.0276-20.2020

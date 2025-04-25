@@ -2,11 +2,9 @@
 
 I'm a theoretical neuroscientist interested in how neuronal networks process information and learn in different temporal and spatial scales.
 
-## Code
+## Here you will find the code used in my latest papers
 
-Here you will find the code used in my latest papers:
-
--- **Repositories that I maintain**
+### Repositories that I maintain
 
 - https://github.com/ejagnes/codependent_plasticity for "Co-dependent excitatory and inhibitory plasticity accounts for quick, stable and long-lasting memories in biological networks" (2024) Everton J Agnes and Tim P Vogels, **Nature Neuroscience** 27:964-974; https://doi.org/10.1038/s41593-024-01597-4
 
@@ -14,11 +12,14 @@ Here you will find the code used in my latest papers:
 
 - https://github.com/ejagnes/flexible_switch_2ISP for "Complementary inhibitory weight profiles emerge from plasticity and allow flexible switching of receptive fields" (2020) Everton J Agnes, Andrea I Luppi, and Tim P Vogels, **Journal of Neuroscience** 40:9634-9649; https://doi.org/10.1523/JNEUROSCI.0276-20.2020
 
--- **Repositories maintained by collaborators**
+### Repositories maintained by collaborators
 
-- From Bill Podlaski: https://github.com/wpodlaski/contextual-memory-nets for "High capacity and dynamic accessibility in associative memory networks with context-dependent neuronal and synaptic gating" (2025) William F Podlaski, Everton J Agnes, and Tim P Vogels, **Physical Review X** 15:011057; https://doi.org/10.1103/PhysRevX.15.011057
+- **From Bill Podlaski:**
+  - https://github.com/wpodlaski/contextual-memory-nets for "High capacity and dynamic accessibility in associative memory networks with context-dependent neuronal and synaptic gating" (2025) William F Podlaski, Everton J Agnes, and Tim P Vogels, **Physical Review X** 15:011057; https://doi.org/10.1103/PhysRevX.15.011057
 
-- From Basile Confavreux: https://github.com/basile6/MetaLearnBiologicallyPlausibleRules for "A meta-learning approach to (re)discover plasticity rules that carve a desired function into a neural network" (2020) Basile Confavreux, Friedemann Zenke, Everton J Agnes, Timothy Lillicrap, and Tim P Vogels, **Advances in Neural Information Processing Systems** 33:16398-16408; https://proceedings.neurips.cc/paper/2020/hash/bdbd5ebfde4934142c8a88e7a3796cd5-Abstract.html
+- **From Basile Confavreux:**
+  - https://github.com/VogelsLab/SpikES for "Balancing complexity, performance and plausibility to meta learn plasticity rules in recurrent spiking networks" (2025) Basile Confavreux, Everton J Agnes, Friedemann Zenke, Henning Sprekeler, and Tim P Vogels, **PLoS Computational Biology** 21:e1012910; https://doi.org/10.1371/journal.pcbi.1012910
+  - https://github.com/basile6/MetaLearnBiologicallyPlausibleRules for "A meta-learning approach to (re)discover plasticity rules that carve a desired function into a neural network" (2020) Basile Confavreux, Friedemann Zenke, Everton J Agnes, Timothy Lillicrap, and Tim P Vogels, **Advances in Neural Information Processing Systems** 33:16398-16408; https://proceedings.neurips.cc/paper/2020/hash/bdbd5ebfde4934142c8a88e7a3796cd5-Abstract.html
 
 ## More info
 
